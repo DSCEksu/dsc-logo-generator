@@ -1,3 +1,3 @@
-# dsc-logo-generator
+# DSC Logo Generator
 
-Source Code for [DSC Logo Generator](https://dsc-logo-generator.web.app)  
+Live Demo for [DSC Logo Generator](https://dsc-logo-generator.web.app)  
